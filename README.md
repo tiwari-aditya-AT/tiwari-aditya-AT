@@ -13,7 +13,7 @@ Building backend applications, designing reliable APIs, and strengthening proble
   <a href="https://github.com/tiwari-aditya-AT">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/5WAn8UPwd7/">
     <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
