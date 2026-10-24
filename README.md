@@ -84,7 +84,7 @@ Explore my [public repositories](https://github.com/tiwari-aditya-AT?tab=reposit
 <div align="center">
 
 <!-- Add your exact LeetCode username to replace the placeholder once you confirm it. -->
-<img src="https://leetcard.jacoblin.cool/Aditya_Tiwari?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode statistics and activity heatmap" />
+<img src="https://leetcard.jacoblin.cool/5WAn8UPwd7?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode statistics and activity heatmap" />
 
 </div>
 
