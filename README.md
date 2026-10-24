@@ -1,7 +1,12 @@
+
 <div align="center">
 
 <!-- Upload a custom banner to assets/banner.png in this profile repository, or remove this image until you have one. -->
-<img src="assets/banner.png" alt="Aditya Tiwari | Java Backend Developer" width="100%" />
+<div align="center">
+  <img src="assets/banner.png"
+       alt="Aditya Tiwari - Java Backend Developer"
+       width="100%" />
+</div>
 
 # Aditya Tiwari 👋
 
