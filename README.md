@@ -3,7 +3,7 @@
 
 <!-- Upload a custom banner to assets/banner.png in this profile repository, or remove this image until you have one. -->
 <div align="center">
-  <img src="assets/banner.png"
+  <img src="assets/Neon Java Backend Developer Banner.png"
        alt="Aditya Tiwari - Java Backend Developer"
        width="100%" />
 </div>
